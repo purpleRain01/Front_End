@@ -1,0 +1,64 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
+.body{
+  
+}
+
+.bg
+{
+  background-image: linear-gradient(0deg,rgba(0,0,0,1.8) 0,transparent 100%,rgba(0,0,0,3.8)), url("/phs/bg1.jpg") !important; 
+  min-width: 100vw;
+  min-height: 100vh;
+  padding: 55px;
+}
+  .center{
+    background-color:rgba(0, 0, 0, 0.9);
+    border-radius: 22px;
+    padding: 40px;
+    margin-left: auto;
+    margin-right:auto;
+    width:30vw;
+    min-height: 80vh; 
+}
+.row{
+  padding:10px 40px;
+}
+#sbbtn{
+  
+  padding:20px 20px;
+}
+.lbl{
+  font-size: 50px;
+  color: #E0E0E0;
+}
+.bt{
+background-color:#EC1D2E;
+padding:3px 7px;
+border-radius:5px ;
+}
+.bt:hover{
+  background-color:#F20000;
+  border-radius: 7px;
+  
+}
+input,#submit{
+  border:none;
+  outline: none;
+}
+.lbl1{
+  font-size: 15px;
+}
+input{
+  background-color:transparent;
+  margin-bottom:2em ;
+  padding: 1em 0 0.2em 0.2em;
+  border-bottom: 2px solid #989898;
+  width: 100% !important;
+  color:#989898;
+  font-size:26px !important;
+}
+.equal{
+  height: 100px !important;
+}
